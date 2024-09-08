@@ -1,0 +1,7 @@
+Task-
+Create a VPC, 2 Availability Zone, 4 Subnets (2 public subnet and 2 private subnet) and 2 route tables.
+For public subnets allow traffic from Internet, and for private subnets only ssh port should be open.
+Create Security Group also for the future instances in the subnets.
+
+- This infrastructure must be created using Terraform with static code 
+- Kindly submit this task ASAP.
