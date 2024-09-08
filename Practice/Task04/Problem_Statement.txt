@@ -1,0 +1,12 @@
+Task 4
+Continue with the previous task add below modules also.
+Security Module
+Description: Manages the creation of security groups.
+Components:
+Public Security Group: For public instances with only SSH port open.
+Private Security Group: For private instances with only SSH port open.
+Compute Module
+Description: Manages the creation of instances.
+Components:
+Public Instances: Launch instances in the public subnet.
+Private Instances: Launch instances in the private subnet.
