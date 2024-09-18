@@ -11,3 +11,9 @@ Implement the Infrastructure with Terraform:
            -    Write static Terraform code to implement the infrastructure as per the reviewed architecture diagram.
 ### Good To Do: Terraform State Management
 -    Terraform State Management: Store the Terraform state file (tfstate) in an S3 bucket to enable remote state management
+
+
+
+## Infrastructure Architecture Diagram
+![Screenshot from 2024-09-09 17-58-28](https://github.com/user-attachments/assets/d72bc51a-7ce7-475c-a266-a66744a621f0)
+
